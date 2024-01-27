@@ -5,7 +5,7 @@
 # Deve ser usado como sistema secundário de backups apenas para redundância e não como backup principal
 
 DB_USERNAME='admin'
-DB_PASSOWRD='senha'
+DB_PASSOWRD='1isDRGwpP7ArxeaOtsuoawMC'
 DB_HOST='localhost'
 
 DAYS_ROTATE='5'
